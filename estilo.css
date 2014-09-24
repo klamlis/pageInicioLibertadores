@@ -1,0 +1,193 @@
+#apDiv5 {
+	position:absolute;
+	left:57px;
+	top:117px;
+	width:907px;
+	height:398px;
+	z-index:5;
+}
+body {
+	background-color: #B5BC76;
+}
+#apDiv8 {
+	position:absolute;
+	left:54px;
+	top:113px;
+	width:900px;
+	height:398px;
+	z-index:4;
+}
+#apDiv9 {
+	position:absolute;
+	left:469px;
+	top:644px;
+	width:129px;
+	height:47px;
+	z-index:7;
+}
+#apDiv8 {
+	position:absolute;
+	left:300px;
+	top:545px;
+	width:627px;
+	height:63px;
+	z-index:8;
+	visibility: visible;
+}
+#apDiv11 {
+	position:absolute;
+	left:607px;
+	top:382px;
+	width:174px;
+	height:58px;
+	z-index:7;
+	visibility: visible;
+}
+#apDiv10 {
+	position:absolute;
+	left:4px;
+	top:4px;
+	width:1417px;
+	height:1063px;
+	z-index:4;
+	clip: rect(0px,0px,auto,auto);
+	visibility: hidden;
+	float: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+#apDiv5 {
+	position:absolute;
+	left:48px;
+	top:200px;
+	width:907px;
+	height:899px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:334px;
+	top:394px;
+	width:619px;
+	height:116px;
+	z-index:6;
+}
+#apDiv7 {
+	position:absolute;
+	left:-92px;
+	top:-18px;
+	width:922px;
+	height:662px;
+	z-index:6;
+	margin-top: 192px;
+	margin-right: 202px;
+	margin-bottom: 220px;
+	margin-left: 310px;
+	visibility: visible;
+}
+#apDiv4 {
+	position:absolute;
+	left:822px;
+	top:22px;
+	width:176px;
+	height:174px;
+	z-index:4;
+	visibility: visible;
+}
+#apDiv3 {
+	position:absolute;
+	left:0px;
+	top:-1px;
+	width:343px;
+	height:166px;
+	z-index:5;
+	float: left;
+	margin-top: 100px;
+	margin-right: 260px;
+	margin-bottom: 192px;
+	margin-left: 789px;
+	visibility: visible;
+}
+#apDiv2 {
+	position:absolute;
+	left:-89px;
+	top:-150px;
+	width:835px;
+	height:316px;
+	z-index:3;
+	float: left;
+	margin-top: 650px;
+	margin-right: 261px;
+	margin-bottom: 50px;
+	margin-left: 335px;
+	visibility: visible;
+}
+#apDiv1 {
+	position:absolute;
+	left:-3px;
+	top:-14px;
+	width:379px;
+	height:93px;
+	z-index:1;
+	float: left;
+	margin-top: 123px;
+	margin-right: 628px;
+	margin-bottom: 858px;
+	margin-left: 230px;
+	visibility: visible;
+}
+body {
+	background-image: url(imagenes/fondo.jpg);
+	background-repeat: no-repeat;
+}
+body div {
+	background-attachment: fixed;
+	width: 1006px;
+	height: 774px;
+	float: left;
+	margin-top: 95px;
+	margin-right: 138px;
+	margin-bottom: 118px;
+	margin-left: 166px;
+	text-align: center;
+}
+#fondo {
+	background-image: url(imagenes/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+#logo {
+	position:absolute;
+	left:-7px;
+	top:-1px;
+	width:377px;
+	height:94px;
+	z-index:1;
+	margin-top: 125px;
+	margin-right: 628.7px;
+	margin-bottom: 858.5px;
+	margin-left: 285px;
+}
+#apDiv7copia {
+	position:absolute;
+	left:-89px;
+	top:-9px;
+	width:904px;
+	height:647px;
+	z-index:6;
+	margin-top: 192px;
+	margin-right: 202px;
+	margin-bottom: 220px;
+	margin-left: 310px;
+	visibility: visible;
+}
+#apDiv5 {
+	position:absolute;
+	left:58px;
+	top:80px;
+	width:907px;
+	height:398px;
+	z-index:6;
+	visibility: visible;
+}
